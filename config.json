@@ -1,12 +1,12 @@
 {
 	"user":{
-		"username":"Steve",
+		"username":"Steveds",
 		"pass":""
 	},
 
 	"server":{
-		"address":"127.0.0.1",
-		"port":25565
+		"address":"attacktitan.gamename.net",
+		"port":26903
 	},
 
 	"keyword":{
